@@ -60,6 +60,5 @@ Renders the opening hours and a button for placing orders when the restaurant is
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/fast-react-pizza-co.git
-```
 
 
